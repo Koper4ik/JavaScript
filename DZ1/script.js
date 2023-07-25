@@ -13,6 +13,6 @@ console.log(Farengeit);
 // Необходимо также создать переменную admin и присвоить этой переменной значение из переменной name.
 // Вывести значение переменной admin в консоль.
 
-let name = 'Алексей Черкасов'
+let name = 'Алексей'
 let admin = name;
 console.log(admin);
